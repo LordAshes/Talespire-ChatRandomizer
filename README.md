@@ -151,7 +151,7 @@ Constent text can be inserted by making the text its own randomization and surro
 
 would output ``I selected rock``, ``I selected paper`` or ``I selected scissors``.
 
-### Whisper Rolls
+### Whisper Rolls And Other Chat Services
 
 Whispers and other chat services can now be triggered using the constent text option. For example:
 
